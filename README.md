@@ -12,7 +12,7 @@ Docker新手教学
 
 ## 课程文件
 
-https://gitee.com/komavideo/
+https://github.com/komavideo/LearnDocker
 
 ## 小马视频频道
 

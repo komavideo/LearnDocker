@@ -65,7 +65,7 @@ $ sudo docker container run --rm -it goodpython:v01
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnDocker
+https://github.com/komavideo/LearnDocker
 
 ## 小马视频频道
 
