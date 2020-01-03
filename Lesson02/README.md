@@ -83,7 +83,7 @@ $ sudo docker run hello-world
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnDocker
+https://github.com/komavideo/LearnDocker
 
 ## 小马视频频道
 
