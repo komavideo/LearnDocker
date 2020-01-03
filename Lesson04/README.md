@@ -48,7 +48,7 @@ $ sudo docker container run -it mynode:latest -e "console.log('helo')"
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnDocker
+https://github.com/komavideo/LearnDocker
 
 ## 小马视频频道
 
