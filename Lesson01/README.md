@@ -39,8 +39,8 @@ Docker学习与进阶
 ## 视频计划
 * 每个视频只包括一个知识点，并控制在5-10分钟之内
 * 原代码共享
-  - Gitee@OSC  
-    https://gitee.com/komavideo/LearnDocker
+  - GitHub  
+    https://github.com/komavideo/LearnDocker
 
 ## 小马视频频道
 
