@@ -11,6 +11,7 @@ Docker新手教学
 06. 搭建Python的环境(3.8)
 07. 搭建PostgreSql数据库服务器
 08. 使用pgadmin4管理PostgreSql服务器
+09. 搭建你的缓存服务器Redis
 
 ## Youtube播单
 
