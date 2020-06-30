@@ -12,6 +12,7 @@ Docker新手教学
 07. 搭建PostgreSql数据库服务器
 08. 使用pgadmin4管理PostgreSql服务器
 09. 搭建你的缓存服务器Redis
+10. 你好，Docker Compose
 
 ## Youtube播单
 
