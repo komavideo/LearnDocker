@@ -13,6 +13,7 @@ Docker新手教学
 08. 使用pgadmin4管理PostgreSql服务器
 09. 搭建你的缓存服务器Redis
 10. 你好，Docker Compose
+11. Flask+Redis多服务开发部署
 
 ## Youtube播单
 
