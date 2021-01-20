@@ -1,6 +1,10 @@
 Docker新手教学
 =============
 
+## 视频讲解(Youtube)
+
+https://www.youtube.com/playlist?list=PLliocbKHJNwubNT2oK-xlB1GXTXuLFb0I
+
 ## 课程详细
 
 01. 课程介绍
@@ -16,10 +20,7 @@ Docker新手教学
 11. Flask+Redis多服务开发部署
 12. 搭建Vue开发环境
 13. 搭建React开发环境
-
-## Youtube播单
-
-https://www.youtube.com/playlist?list=PLliocbKHJNwubNT2oK-xlB1GXTXuLFb0I
+14. Amazon Linux 2安装Docker
 
 ## 课程文件
 
